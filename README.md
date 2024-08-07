@@ -1,5 +1,3 @@
-# card-game
-card-game in cpp
 # Card Game in C++
 Welcome to the Card Game project! This repository contains the implementation of a card game in C++.
 
